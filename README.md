@@ -64,5 +64,3 @@ Muphulusi Dzivhani
 University of Pretoria
 Email: u18069682@tuks.co.za
 Student Number: u18069682
-University of Pretoria
-Email: mdzivhani@tuks.co.za
