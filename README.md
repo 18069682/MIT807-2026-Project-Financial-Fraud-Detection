@@ -10,7 +10,7 @@ This repository contains a mini dissertation research project that investigates 
 Author: Muphulusi Dzivhani (u18069682)
 Institution: University of Pretoria
 Year: 2026
-Course: COS 802 Research Project
+Course: MIT807 Research Project
 
 📖 Project Overview
 
